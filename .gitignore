@@ -1,0 +1,10 @@
+﻿dataset/
+train/
+test/
+validation/
+results/
+models/results/
+__pycache__/
+*.pyc
+app4.py
+app (3).py
